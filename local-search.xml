@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>JavaScript基础</title>
+    <link href="/Stu/2022/07/18/JavaScript/"/>
+    <url>/Stu/2022/07/18/JavaScript/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>JS</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Linux基础</title>
     <link href="/Stu/2022/07/18/Linux%E5%9F%BA%E7%A1%80/"/>
     <url>/Stu/2022/07/18/Linux%E5%9F%BA%E7%A1%80/</url>
@@ -30,19 +49,6 @@
       <tag>JavaWeb</tag>
       
     </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>JavaScript</title>
-    <link href="/Stu/2022/07/18/JavaScript/"/>
-    <url>/Stu/2022/07/18/JavaScript/</url>
-    
-    <content type="html"><![CDATA[]]></content>
-    
-    
     
   </entry>
   
@@ -87,9 +93,9 @@
   
   
   <entry>
-    <title>CSS</title>
-    <link href="/Stu/2022/07/18/CSS/"/>
-    <url>/Stu/2022/07/18/CSS/</url>
+    <title>CSS基础</title>
+    <link href="/Stu/2022/07/18/CSS%E5%9F%BA%E7%A1%80/"/>
+    <url>/Stu/2022/07/18/CSS%E5%9F%BA%E7%A1%80/</url>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -106,9 +112,9 @@
   
   
   <entry>
-    <title>HTML</title>
-    <link href="/Stu/2022/07/18/HTML/"/>
-    <url>/Stu/2022/07/18/HTML/</url>
+    <title>HTML基础</title>
+    <link href="/Stu/2022/07/18/HTML%E5%9F%BA%E7%A1%80/"/>
+    <url>/Stu/2022/07/18/HTML%E5%9F%BA%E7%A1%80/</url>
     
     <content type="html"><![CDATA[]]></content>
     
